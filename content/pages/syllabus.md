@@ -36,9 +36,54 @@ Assignments and Grading
 
 The main written assignment for this course is a substantial research paper, on any reasonable subject of interest to you. These papers should be between 15-20 pages long, and should explore the given topic in substantial depth. History majors may use this paper to explore a possible thesis topic. The paper will be produced in the following stages:
 
-| SES # | KEY DATES |
-| --- | --- |
-| 4 | Statement of topic interest and research proposal |
-| 6 | Annotated bibliography |
-| Before SES #10 | Draft |
-| 13 | Final draft and class presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Statement of topic interest and research proposal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Annotated bibliography
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Before SES #10
+{{< tdclose >}}
+{{< tdopen >}}
+Draft
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final draft and class presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
